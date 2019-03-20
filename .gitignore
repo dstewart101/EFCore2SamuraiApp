@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/SamuraiApp.Console
+/SamuraiApp.Data
+/SamuraiApp.Domain
+/SamuraiApp.Tests
+/SamuraiApp.UI
